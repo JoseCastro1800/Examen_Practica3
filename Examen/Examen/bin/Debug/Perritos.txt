@@ -1,0 +1,20 @@
+1, Juancho,Pollo, Pitbull, Macho
+2, Juanita, Salchicha, Pug, Hembra
+3, Juan, Carne, Pastor Aleman, Macho
+4, Kira, Hueso, Pitbull, Hembra
+5,HOL, Croquetas, Callejero, Macho
+6, Flor, Jamon, Pitbull, Hembra
+7, Don, Carne, Chihuahua, Macho
+8, Sol, Hueso, Pug, Hembra
+9, Manolo, Pollo, Pastor Aleman, Macho
+10, Kirai, Pollo, Pitbull, Hembra
+11, Pege, Salchicha, Callejero, Macho
+12, Diana, Croquetas, Pitbull, Hembra
+13, pu, Pollo, Chihuahua, Macho
+14, carla, Jamon, Pug, Hembra
+15, Jorge, Tocino, Pastor Aleman, Macho
+16, Kaira, Carne, Pitbull, Hembra
+17, Felipe, Hueso, Callejero, Macho
+18, Florecita, Pan, Pitbull, Hembra
+19, Duvalin, Juguete, Chihuahua, Macho
+20, Klara, Salchicha, Pug, Hembra
